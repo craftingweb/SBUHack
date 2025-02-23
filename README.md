@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# FocusFlow: A Smarter Way to Stay Productive  https://focusflowapp.vercel.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🎯 Inspiration  
+As students, we often struggle with distractions and time management. Inspired by the Pomodoro Technique, we wanted to create an intuitive and visually engaging app that helps users stay focused while maintaining a healthy work-life balance.  
 
-## Available Scripts
+## 🛠 What We Learned  
+Throughout this project, we deepened our understanding of React hooks, state management, and component composition. We also explored UI/UX principles to ensure an intuitive user experience.  
 
-In the project directory, you can run:
+## 🔧 How We Built It  
+- **Frontend:** React.js for the UI and state management  
+- **Styling:** Tailwind CSS for a clean and responsive design  
+- **Features:** Customizable timers, progress visualization using `react-circular-progressbar`, and audio alerts for breaks  
+- **Version Control:** GitHub for collaboration and tracking progress  
 
-### `npm start`
+## 🚧 Challenges We Faced  
+- **Dependency Issues:** Resolving compatibility problems between `react-circular-progressbar` and React 19  
+- **State Management:** Ensuring real-time updates of the timer while maintaining smooth UI performance  
+- **Time Constraints:** As beginners, balancing feature implementation and debugging within the hackathon timeframe was tough  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 What's Next?  
+- Adding task tracking and analytics  
+- Integrating notifications and AI-powered productivity insights  
+- Mobile-friendly version for on-the-go focus sessions  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+FocusFlow is just the beginning—our goal is to empower users with better productivity habits. 💡  
